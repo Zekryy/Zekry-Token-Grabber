@@ -6,6 +6,7 @@
 Zekry 
 
 ## ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 🌟Star This Repository If You Liked Zekry Token Grabber!
+## ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 🌟Dê uma estrela a este repositório se você gostou do Zekry Token Grabber!
 
 ---
 
